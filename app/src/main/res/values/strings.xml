@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HUD_Coding_Test</string>
+    <string name="fragment_cats">Cats</string>
+    <string name="fragment_dogs">Dogs</string>
 </resources>
